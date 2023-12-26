@@ -1,1 +1,1 @@
-console.log(nodejs has been installed... )
+console.log("nodejs has been installed..." )
